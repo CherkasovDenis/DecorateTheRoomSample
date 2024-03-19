@@ -1,0 +1,127 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!687078895 &4343727234628468602
+SpriteAtlas:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_Name: DecorateTheRoomAtlas
+  m_EditorData:
+    serializedVersion: 2
+    textureSettings:
+      serializedVersion: 2
+      anisoLevel: 1
+      compressionQuality: 50
+      maxTextureSize: 2048
+      textureCompression: 0
+      filterMode: 1
+      generateMipMaps: 0
+      readable: 0
+      crunchedCompression: 0
+      sRGB: 1
+    platformSettings:
+    - serializedVersion: 3
+      m_BuildTarget: DefaultTexturePlatform
+      m_MaxTextureSize: 2048
+      m_ResizeAlgorithm: 0
+      m_TextureFormat: -1
+      m_TextureCompression: 1
+      m_CompressionQuality: 50
+      m_CrunchedCompression: 1
+      m_AllowsAlphaSplitting: 0
+      m_Overridden: 0
+      m_IgnorePlatformSupport: 0
+      m_AndroidETC2FallbackOverride: 0
+      m_ForceMaximumCompressionQuality_BC6H_BC7: 0
+    packingSettings:
+      serializedVersion: 2
+      padding: 8
+      blockOffset: 1
+      allowAlphaSplitting: 0
+      enableRotation: 1
+      enableTightPacking: 0
+      enableAlphaDilation: 1
+    secondaryTextureSettings: {}
+    variantMultiplier: 1
+    packables:
+    - {fileID: 102900000, guid: b396100c0a7ae0d4b89989c73b6a9444, type: 3}
+    bindAsDefault: 1
+    isAtlasV2: 0
+    cachedData: {fileID: 0}
+    packedSpriteRenderDataKeys:
+    - c423a951c6a82eb48b0bd56d7dfc577f: 21300000
+    - 908fa1e17512802408f42b9af2c4864f: 21300000
+    - a98599e155f72b74c99db5eef99a0ab5: 21300000
+    - 07e501223abf3a34fa22b682f8620434: 21300000
+    - e5b5c3c385adcec43adcbe31435ffed3: 21300000
+    - d90a2b441546d81439b75878d11c9703: 21300000
+    - fa688d756dc8bc94dbcdf084a046a0d2: 21300000
+    - a91dace6eb4b5de43998348b2c689658: 21300000
+    - 170bfff646bc04a41be93d56410d41dd: 21300000
+    - d8b3b5f787133574cb3cfb76866fb95a: 21300000
+    - 704d1b08637f8f14eb028188e647fb78: 21300000
+    - 9fc322695cfbcb443970c11998142577: 21300000
+    - b959b799bc059794a949d7dce998c2ae: 21300000
+    - 913b56b992025c84fb628029c423d66a: 21300000
+    - 3e46049a417efd340b3044c273338062: 21300000
+    - 1121b76bad0e15d40a2b0b1bd9ed4820: 21300000
+    - b4fb2d7bf5b54574abc8db3248b1d7a2: 21300000
+    - 6551d15c1d7765a4c8050256f291b21c: 21300000
+    - deeba89c6540d3b47a05c4532143eee5: 21300000
+    - 472ec8cc24482c245a670a1d0388ad0d: 21300000
+    - 0e2d72edaa7d6504b8f05f72ee8bac01: 21300000
+    - 21bc9b1fbcf436c48b016921241c1021: 21300000
+    - 5dd9c7cf3adf82f4793fa636943c2af9: 21300000
+  m_MasterAtlas: {fileID: 0}
+  m_PackedSprites:
+  - {fileID: 21300000, guid: c423a951c6a82eb48b0bd56d7dfc577f, type: 3}
+  - {fileID: 21300000, guid: 908fa1e17512802408f42b9af2c4864f, type: 3}
+  - {fileID: 21300000, guid: a98599e155f72b74c99db5eef99a0ab5, type: 3}
+  - {fileID: 21300000, guid: 07e501223abf3a34fa22b682f8620434, type: 3}
+  - {fileID: 21300000, guid: e5b5c3c385adcec43adcbe31435ffed3, type: 3}
+  - {fileID: 21300000, guid: d90a2b441546d81439b75878d11c9703, type: 3}
+  - {fileID: 21300000, guid: fa688d756dc8bc94dbcdf084a046a0d2, type: 3}
+  - {fileID: 21300000, guid: a91dace6eb4b5de43998348b2c689658, type: 3}
+  - {fileID: 21300000, guid: 170bfff646bc04a41be93d56410d41dd, type: 3}
+  - {fileID: 21300000, guid: d8b3b5f787133574cb3cfb76866fb95a, type: 3}
+  - {fileID: 21300000, guid: 704d1b08637f8f14eb028188e647fb78, type: 3}
+  - {fileID: 21300000, guid: 9fc322695cfbcb443970c11998142577, type: 3}
+  - {fileID: 21300000, guid: b959b799bc059794a949d7dce998c2ae, type: 3}
+  - {fileID: 21300000, guid: 913b56b992025c84fb628029c423d66a, type: 3}
+  - {fileID: 21300000, guid: 3e46049a417efd340b3044c273338062, type: 3}
+  - {fileID: 21300000, guid: 1121b76bad0e15d40a2b0b1bd9ed4820, type: 3}
+  - {fileID: 21300000, guid: b4fb2d7bf5b54574abc8db3248b1d7a2, type: 3}
+  - {fileID: 21300000, guid: 6551d15c1d7765a4c8050256f291b21c, type: 3}
+  - {fileID: 21300000, guid: deeba89c6540d3b47a05c4532143eee5, type: 3}
+  - {fileID: 21300000, guid: 472ec8cc24482c245a670a1d0388ad0d, type: 3}
+  - {fileID: 21300000, guid: 0e2d72edaa7d6504b8f05f72ee8bac01, type: 3}
+  - {fileID: 21300000, guid: 21bc9b1fbcf436c48b016921241c1021, type: 3}
+  - {fileID: 21300000, guid: 5dd9c7cf3adf82f4793fa636943c2af9, type: 3}
+  m_PackedSpriteNamesToIndex:
+  - Log
+  - Background_3
+  - Gem_3
+  - Sphere_2
+  - Sphere_1
+  - Plant_1
+  - Potion_2
+  - Bowl
+  - Coint_2
+  - Background_1
+  - Cup
+  - Gem_1
+  - Background_2
+  - Gem_2
+  - Ore_2
+  - Book_2
+  - Gem_4
+  - Plant_2
+  - Potion_1
+  - Plank
+  - Coin_1
+  - Book_1
+  - Ore_1
+  m_RenderDataMap: {}
+  m_Tag: DecorateTheRoomAtlas
+  m_IsVariant: 0

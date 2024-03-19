@@ -1,0 +1,24 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 4a54f0df4da14dabb78dbdfaad1d4d9a, type: 3}
+  m_Name: VisualData
+  m_EditorClassIdentifier: 
+  _decorElementPrefab: {fileID: 4639236942332566475, guid: a7ec511fbfb953c4ebd9e85d12efcc30, type: 3}
+  _pagePrefab: {fileID: 7096848505442471026, guid: 7dadc510f546e5b4487a58213f38256d, type: 3}
+  _categoryPrefab: {fileID: 6479613976543362444, guid: ef2a71731634a45438a48c5bd774f9d7, type: 3}
+  _elementsContentPrefab: {fileID: 1542412864464303079, guid: 6bcc2db121e375f42bfe89bc1ba758ba, type: 3}
+  _menuGroupGridPrefab: {fileID: 4699634511034155033, guid: bdc54e7bd932ef04c98d5836b0b334c5, type: 3}
+  _menuButtonPrefab: {fileID: 2468224102902494281, guid: a3a25b21cf8932c44bb158409479f972, type: 3}
+  _categoriesPerPage: 6
+  _menuMoveDuration: 0.5
+  _menuShowValue: 0
+  _menuHideValue: 1300

@@ -1,0 +1,23 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 0a52134c6781452ba39c0564c8509053, type: 3}
+  m_Name: Plants
+  m_EditorClassIdentifier: 
+  _categoryId: Plants
+  _categoryIcon: {fileID: 21300000, guid: d90a2b441546d81439b75878d11c9703, type: 3}
+  _unlockByAd: 0
+  _unlockByPurchase: 0
+  _groups:
+  - _cellSize: {x: 200, y: 200}
+    _menuItems:
+    - {fileID: 11400000, guid: 5d7a10c164b70c44692af8ef4708ef49, type: 2}
+    - {fileID: 11400000, guid: fc7fc8adff99e294998857eb2ab2793c, type: 2}

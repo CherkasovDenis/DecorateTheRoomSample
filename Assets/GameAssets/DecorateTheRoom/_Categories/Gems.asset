@@ -1,0 +1,25 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 0a52134c6781452ba39c0564c8509053, type: 3}
+  m_Name: Gems
+  m_EditorClassIdentifier: 
+  _categoryId: Gems
+  _categoryIcon: {fileID: 21300000, guid: a98599e155f72b74c99db5eef99a0ab5, type: 3}
+  _unlockByAd: 0
+  _unlockByPurchase: 1
+  _groups:
+  - _cellSize: {x: 200, y: 200}
+    _menuItems:
+    - {fileID: 11400000, guid: 3f9f799471984114580a93162ec91e7a, type: 2}
+    - {fileID: 11400000, guid: 5675615a2321c524dafa7480784d905c, type: 2}
+    - {fileID: 11400000, guid: ef3ae71a161405848942b0545440075a, type: 2}
+    - {fileID: 11400000, guid: dfb5f9448c7dc2341b6783e6eb721acc, type: 2}
